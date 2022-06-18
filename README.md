@@ -59,7 +59,7 @@ Please find the link in the Live Demo section.
 
 ## Authors
 
-👤 **Imran Belete** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+👤 **Yilikal Teshome** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
   - [GitHub](https://github.com/Yilikal250)
   - [Twitter](https://twitter.com/TeshomeYilikal)
