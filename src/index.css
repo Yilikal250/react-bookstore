@@ -111,7 +111,7 @@ body {
 .progress_btn {
   margin: 1.5rem 0 0 0;
   padding: 0.5rem 1.5rem;
-  background-color: green;
+  background-color: brown;
   border: none;
   border-radius: 0.2rem;
   color: #fff;
@@ -146,14 +146,14 @@ form {
 .checkBtn {
   padding: 1rem 2rem;
   font-size: 2rem;
-  background-color: #0290ff;
+  background-color: brown;
   border: none;
   border-radius: 2rem;
   margin: 18rem 0 0 0;
 }
 
 .btn-add {
-  background-color: #0290ff;
+  background-color: brown;
   border: none;
   border-radius: 0.3rem;
   color: #fff;
