@@ -40,7 +40,7 @@ body {
   font-weight: 900;
   text-transform: uppercase;
   text-decoration: none;
-  color: red;
+  color: cyan;
 }
 
 .menu_bar:focus {
@@ -55,7 +55,7 @@ body {
 }
 
 .right_side svg {
-  color: yellow;
+  color: chocolate;
 }
 
 .container {
