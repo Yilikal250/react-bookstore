@@ -84,7 +84,7 @@ body {
 }
 
 .author {
-  color: green;
+  color:brown;
 }
 
 .div_btn {
@@ -96,7 +96,7 @@ body {
   border: none;
   background-color: transparent;
   cursor: pointer;
-  color: #0290ff;
+  color: crimson;
 }
 
 .div_btn button:nth-child(2) {
