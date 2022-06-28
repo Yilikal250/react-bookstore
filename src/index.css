@@ -32,7 +32,7 @@ body {
 .logo {
   margin: 0 1rem;
   font-family: 'Roboto', sans-serif;
-  color: orchid;
+  color: #0290ff;
 }
 
 .menu_bar {
@@ -55,7 +55,7 @@ body {
 }
 
 .right_side svg {
-  color: chocolate;
+  color: #0290ff;
 }
 
 .container {
@@ -74,17 +74,17 @@ body {
 }
 
 .topics {
-  font-weight: 700;
+  font-weight: 800;
   font-size: 1rem;
 }
 
 .title {
   font-family: 'Charis SIL', serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 
 .author {
-  color: brown;
+  color: #0290ff;
 }
 
 .div_btn {
@@ -96,7 +96,7 @@ body {
   border: none;
   background-color: transparent;
   cursor: pointer;
-  color: crimson;
+  color: #0290ff;
 }
 
 .div_btn button:nth-child(2) {
@@ -111,7 +111,7 @@ body {
 .progress_btn {
   margin: 1.5rem 0 0 0;
   padding: 0.5rem 1.5rem;
-  background-color: brown;
+  background-color: #0290ff;
   border: none;
   border-radius: 0.2rem;
   color: #fff;
@@ -146,14 +146,14 @@ form {
 .checkBtn {
   padding: 1rem 2rem;
   font-size: 2rem;
-  background-color: crimson;
+  background-color: #0290ff;
   border: none;
   border-radius: 2rem;
   margin: 18rem 0 0 0;
 }
 
 .btn-add {
-  background-color: crimson;
+  background-color: #0290ff;
   border: none;
   border-radius: 0.3rem;
   color: #fff;
