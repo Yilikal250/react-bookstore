@@ -32,7 +32,7 @@ body {
 .logo {
   margin: 0 1rem;
   font-family: 'Roboto', sans-serif;
-  color: #0290ff;
+  color: yellow;
 }
 
 .menu_bar {
@@ -40,7 +40,7 @@ body {
   font-weight: 900;
   text-transform: uppercase;
   text-decoration: none;
-  color: gray;
+  color: red;
 }
 
 .menu_bar:focus {
@@ -55,7 +55,7 @@ body {
 }
 
 .right_side svg {
-  color: #0290ff;
+  color: yellow;
 }
 
 .container {
@@ -84,7 +84,7 @@ body {
 }
 
 .author {
-  color: #0290ff;
+  color: green;
 }
 
 .div_btn {
@@ -111,7 +111,7 @@ body {
 .progress_btn {
   margin: 1.5rem 0 0 0;
   padding: 0.5rem 1.5rem;
-  background-color: #0290ff;
+  background-color: green;
   border: none;
   border-radius: 0.2rem;
   color: #fff;

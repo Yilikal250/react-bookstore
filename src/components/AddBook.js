@@ -50,7 +50,7 @@ const AddBooks = () => {
         <select className="form_space" name="category" value={state.category} onChange={handleCategory}>
           <option value="" defaultValue>Category</option>
           <option value="Science Fiction">Science Fiction</option>
-          <option value="Terror">Terror</option>
+          <option value="History">History</option>
           <option value="Romance">Romance</option>
           <option value="Economy">Economy</option>
           <option value="Technology">Technology</option>
