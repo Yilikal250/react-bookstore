@@ -6,7 +6,7 @@ export const checkstatus = () => ({
   type: CHECKSTATUS,
 });
 
-export const reducer = (state = initialSate, action = {}) => {
+const reducerCategories = (state = initialSate, action = {}) => {
   switch (action.type) {
     case CHECKSTATUS:
       return 'Under Construction';
@@ -14,3 +14,5 @@ export const reducer = (state = initialSate, action = {}) => {
       return state;
   }
 };
+
+export default reducerCategories;

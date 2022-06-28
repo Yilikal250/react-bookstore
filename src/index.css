@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL&family=Roboto:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.top_header {
+  justify-content: space-between;
+  padding: 1rem;
+  border: 0.3px solid rgb(205, 205, 205);
+}
+
+.left_side {
+  justify-content: left;
+}
+
+.logo {
+  margin: 0 1rem;
+  font-family: 'Roboto', sans-serif;
+  color: #0290ff;
+}
+
+.menu_bar {
+  margin: 0 1rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: gray;
+}
+
+.menu_bar:focus {
+  color: #000;
+}
+
+.right_side {
+  margin: 0 2rem;
+  padding: 1rem;
+  border-radius: 50%;
+  border: 0.3px solid rgb(186, 186, 186);
+}
+
+.right_side svg {
+  color: #0290ff;
+}
+
+.container {
+  justify-content: space-between;
+  border: 0.3px solid rgb(186, 186, 186);
+  margin: 2rem 3rem;
+  border-radius: 0.5rem;
+}
+
+.card {
+  padding: 1rem;
+}
+
+.fonts {
+  font-weight: 800;
+}
+
+.topics {
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+.title {
+  font-family: 'Charis SIL', serif;
+  font-size: 1.5rem;
+}
+
+.author {
+  color: #0290ff;
+}
+
+.div_btn {
+  margin-top: 1rem;
+}
+
+.div_btn button {
+  font-size: 1rem;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: #0290ff;
+}
+
+.div_btn button:nth-child(2) {
+  border-top: none;
+  border-bottom: none;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  padding: 0 1rem;
+  margin: 0 1rem;
+}
+
+.progress_btn {
+  margin: 1.5rem 0 0 0;
+  padding: 0.5rem 1.5rem;
+  background-color: #0290ff;
+  border: none;
+  border-radius: 0.2rem;
+  color: #fff;
+}
+
+.container_form {
+  margin: 0 3rem;
+}
+
+h3 {
+  font-weight: bolder;
+  color: gray;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 0 1rem 0;
+}
+
+form {
+  margin: 0 0 2rem 0;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.form input {
+  border: 1px solid gray;
+}
+
+.form_space {
+  padding: 1rem 3.9rem;
+  opacity: 0.7;
+}
+
+.checkBtn {
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  background-color: #0290ff;
+  border: none;
+  border-radius: 2rem;
+  margin: 18rem 0 0 0;
+}
+
+.btn-add {
+  background-color: #0290ff;
+  border: none;
+  border-radius: 0.3rem;
+  color: #fff;
+}
+
+.circle {
+  justify-content: left;
+  border-right: 1px solid rgb(179, 179, 179);
+  padding: 0 7rem 0 0;
+}
+
+.direction {
+  padding: 0 0 0 1rem;
+}
+
+.percentage {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.chapter {
+  width: 15rem;
+  flex-direction: column;
+  margin: 1rem 2rem 1rem 0;
+}
