@@ -32,7 +32,7 @@ body {
 .logo {
   margin: 0 1rem;
   font-family: 'Roboto', sans-serif;
-  color: yellow;
+  color: orchid;
 }
 
 .menu_bar {
@@ -74,13 +74,13 @@ body {
 }
 
 .topics {
-  font-weight: 800;
+  font-weight: 700;
   font-size: 1rem;
 }
 
 .title {
   font-family: 'Charis SIL', serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 .author {
